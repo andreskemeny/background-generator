@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "A very simple background generator made with JS.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrestepid/background-generator.git"
+  },
+  "author": "Andres Kemeny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrestepid/background-generator/issues"
+  },
+  "homepage": "https://github.com/andrestepid/background-generator#readme"
+}
